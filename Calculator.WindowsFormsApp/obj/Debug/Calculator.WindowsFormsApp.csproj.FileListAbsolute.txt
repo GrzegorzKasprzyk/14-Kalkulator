@@ -1,0 +1,9 @@
+C:\Users\grzes\Desktop\Kalkulator\Calculator.WindowsFormsApp\bin\Debug\Calculator.WindowsFormsApp.exe.config
+C:\Users\grzes\Desktop\Kalkulator\Calculator.WindowsFormsApp\bin\Debug\Calculator.WindowsFormsApp.exe
+C:\Users\grzes\Desktop\Kalkulator\Calculator.WindowsFormsApp\bin\Debug\Calculator.WindowsFormsApp.pdb
+C:\Users\grzes\Desktop\Kalkulator\Calculator.WindowsFormsApp\obj\Debug\Calculator.WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\grzes\Desktop\Kalkulator\Calculator.WindowsFormsApp\obj\Debug\Calculator.WindowsFormsApp.Properties.Resources.resources
+C:\Users\grzes\Desktop\Kalkulator\Calculator.WindowsFormsApp\obj\Debug\Calculator.WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\grzes\Desktop\Kalkulator\Calculator.WindowsFormsApp\obj\Debug\Calculator.WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\grzes\Desktop\Kalkulator\Calculator.WindowsFormsApp\obj\Debug\Calculator.WindowsFormsApp.exe
+C:\Users\grzes\Desktop\Kalkulator\Calculator.WindowsFormsApp\obj\Debug\Calculator.WindowsFormsApp.pdb
