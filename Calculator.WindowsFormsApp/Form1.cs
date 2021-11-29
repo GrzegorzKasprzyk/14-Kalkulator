@@ -26,5 +26,15 @@ namespace Calculator.WindowsFormsApp
         {
 
         }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn6_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
