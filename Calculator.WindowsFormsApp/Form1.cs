@@ -41,5 +41,40 @@ namespace Calculator.WindowsFormsApp
         {
 
         }
+
+        private void btn8_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn0_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
