@@ -56,10 +56,12 @@ namespace Calculator.WindowsFormsApp
             this.tbScreen.Name = "tbScreen";
             this.tbScreen.Size = new System.Drawing.Size(398, 56);
             this.tbScreen.TabIndex = 0;
+            this.tbScreen.Text = "34567768787";
             this.tbScreen.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
             // btn7
             // 
+            this.btn7.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
             this.btn7.Location = new System.Drawing.Point(12, 134);
             this.btn7.Name = "btn7";
             this.btn7.Size = new System.Drawing.Size(77, 64);
@@ -70,6 +72,7 @@ namespace Calculator.WindowsFormsApp
             // 
             // btn8
             // 
+            this.btn8.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
             this.btn8.Location = new System.Drawing.Point(95, 134);
             this.btn8.Name = "btn8";
             this.btn8.Size = new System.Drawing.Size(75, 64);
@@ -79,6 +82,7 @@ namespace Calculator.WindowsFormsApp
             // 
             // btn9
             // 
+            this.btn9.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
             this.btn9.Location = new System.Drawing.Point(176, 134);
             this.btn9.Name = "btn9";
             this.btn9.Size = new System.Drawing.Size(71, 64);
@@ -88,6 +92,7 @@ namespace Calculator.WindowsFormsApp
             // 
             // btn4
             // 
+            this.btn4.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
             this.btn4.Location = new System.Drawing.Point(12, 204);
             this.btn4.Name = "btn4";
             this.btn4.Size = new System.Drawing.Size(77, 58);
@@ -97,6 +102,7 @@ namespace Calculator.WindowsFormsApp
             // 
             // btn5
             // 
+            this.btn5.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
             this.btn5.Location = new System.Drawing.Point(95, 204);
             this.btn5.Name = "btn5";
             this.btn5.Size = new System.Drawing.Size(75, 58);
@@ -106,6 +112,7 @@ namespace Calculator.WindowsFormsApp
             // 
             // btn6
             // 
+            this.btn6.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
             this.btn6.Location = new System.Drawing.Point(176, 204);
             this.btn6.Name = "btn6";
             this.btn6.Size = new System.Drawing.Size(71, 58);
@@ -116,6 +123,7 @@ namespace Calculator.WindowsFormsApp
             // 
             // btn1
             // 
+            this.btn1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
             this.btn1.Location = new System.Drawing.Point(12, 268);
             this.btn1.Name = "btn1";
             this.btn1.Size = new System.Drawing.Size(77, 62);
@@ -125,6 +133,7 @@ namespace Calculator.WindowsFormsApp
             // 
             // btn2
             // 
+            this.btn2.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
             this.btn2.Location = new System.Drawing.Point(95, 268);
             this.btn2.Name = "btn2";
             this.btn2.Size = new System.Drawing.Size(75, 62);
@@ -134,6 +143,7 @@ namespace Calculator.WindowsFormsApp
             // 
             // btn3
             // 
+            this.btn3.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
             this.btn3.Location = new System.Drawing.Point(176, 268);
             this.btn3.Name = "btn3";
             this.btn3.Size = new System.Drawing.Size(71, 62);
@@ -144,6 +154,7 @@ namespace Calculator.WindowsFormsApp
             // 
             // btnDivision
             // 
+            this.btnDivision.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
             this.btnDivision.Location = new System.Drawing.Point(253, 134);
             this.btnDivision.Name = "btnDivision";
             this.btnDivision.Size = new System.Drawing.Size(75, 64);
@@ -153,6 +164,7 @@ namespace Calculator.WindowsFormsApp
             // 
             // btnSubtraction
             // 
+            this.btnSubtraction.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
             this.btnSubtraction.Location = new System.Drawing.Point(253, 204);
             this.btnSubtraction.Name = "btnSubtraction";
             this.btnSubtraction.Size = new System.Drawing.Size(75, 58);
@@ -162,6 +174,7 @@ namespace Calculator.WindowsFormsApp
             // 
             // btnMultiplication
             // 
+            this.btnMultiplication.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
             this.btnMultiplication.Location = new System.Drawing.Point(253, 268);
             this.btnMultiplication.Name = "btnMultiplication";
             this.btnMultiplication.Size = new System.Drawing.Size(75, 62);
@@ -172,6 +185,7 @@ namespace Calculator.WindowsFormsApp
             // 
             // btn0
             // 
+            this.btn0.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
             this.btn0.Location = new System.Drawing.Point(12, 336);
             this.btn0.Name = "btn0";
             this.btn0.Size = new System.Drawing.Size(158, 57);
@@ -181,6 +195,7 @@ namespace Calculator.WindowsFormsApp
             // 
             // btnComma
             // 
+            this.btnComma.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
             this.btnComma.Location = new System.Drawing.Point(176, 336);
             this.btnComma.Name = "btnComma";
             this.btnComma.Size = new System.Drawing.Size(71, 57);
@@ -190,15 +205,18 @@ namespace Calculator.WindowsFormsApp
             // 
             // btnClear
             // 
+            this.btnClear.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
             this.btnClear.Location = new System.Drawing.Point(253, 336);
             this.btnClear.Name = "btnClear";
             this.btnClear.Size = new System.Drawing.Size(75, 57);
             this.btnClear.TabIndex = 15;
             this.btnClear.Text = "C";
             this.btnClear.UseVisualStyleBackColor = true;
+            this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
             // 
             // btnAdd
             // 
+            this.btnAdd.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
             this.btnAdd.Location = new System.Drawing.Point(335, 134);
             this.btnAdd.Name = "btnAdd";
             this.btnAdd.Size = new System.Drawing.Size(75, 128);
@@ -208,6 +226,7 @@ namespace Calculator.WindowsFormsApp
             // 
             // btnResult
             // 
+            this.btnResult.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
             this.btnResult.Location = new System.Drawing.Point(335, 268);
             this.btnResult.Name = "btnResult";
             this.btnResult.Size = new System.Drawing.Size(75, 125);
