@@ -238,6 +238,7 @@ namespace Calculator.WindowsFormsApp
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.CadetBlue;
             this.ClientSize = new System.Drawing.Size(423, 450);
             this.Controls.Add(this.btnResult);
             this.Controls.Add(this.btnAdd);
