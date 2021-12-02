@@ -7,3 +7,4 @@ C:\Users\grzes\Desktop\Kalkulator\Calculator.WindowsFormsApp\obj\Debug\Calculato
 C:\Users\grzes\Desktop\Kalkulator\Calculator.WindowsFormsApp\obj\Debug\Calculator.WindowsFormsApp.csproj.CoreCompileInputs.cache
 C:\Users\grzes\Desktop\Kalkulator\Calculator.WindowsFormsApp\obj\Debug\Calculator.WindowsFormsApp.exe
 C:\Users\grzes\Desktop\Kalkulator\Calculator.WindowsFormsApp\obj\Debug\Calculator.WindowsFormsApp.pdb
+C:\Users\grzes\Desktop\Kalkulator\Calculator.WindowsFormsApp\obj\Debug\Calculator.WindowsFormsApp.Form1.resources
