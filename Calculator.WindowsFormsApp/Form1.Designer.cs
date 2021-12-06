@@ -168,7 +168,7 @@ namespace Calculator.WindowsFormsApp
             // 
             // btnDivision
             // 
-            this.btnDivision.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
+            this.btnDivision.BackColor = System.Drawing.Color.Lime;
             this.btnDivision.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
             this.btnDivision.Location = new System.Drawing.Point(253, 134);
             this.btnDivision.Name = "btnDivision";
@@ -179,7 +179,7 @@ namespace Calculator.WindowsFormsApp
             // 
             // btnSubtraction
             // 
-            this.btnSubtraction.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
+            this.btnSubtraction.BackColor = System.Drawing.Color.Lime;
             this.btnSubtraction.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
             this.btnSubtraction.Location = new System.Drawing.Point(253, 204);
             this.btnSubtraction.Name = "btnSubtraction";
@@ -190,7 +190,7 @@ namespace Calculator.WindowsFormsApp
             // 
             // btnMultiplication
             // 
-            this.btnMultiplication.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
+            this.btnMultiplication.BackColor = System.Drawing.Color.Lime;
             this.btnMultiplication.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
             this.btnMultiplication.Location = new System.Drawing.Point(253, 268);
             this.btnMultiplication.Name = "btnMultiplication";
@@ -237,7 +237,7 @@ namespace Calculator.WindowsFormsApp
             // 
             // btnAdd
             // 
-            this.btnAdd.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
+            this.btnAdd.BackColor = System.Drawing.Color.Lime;
             this.btnAdd.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
             this.btnAdd.Location = new System.Drawing.Point(335, 134);
             this.btnAdd.Name = "btnAdd";
