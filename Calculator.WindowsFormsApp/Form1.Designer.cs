@@ -225,7 +225,7 @@ namespace Calculator.WindowsFormsApp
             // 
             // btnClear
             // 
-            this.btnClear.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
+            this.btnClear.BackColor = System.Drawing.Color.Silver;
             this.btnClear.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
             this.btnClear.Location = new System.Drawing.Point(253, 336);
             this.btnClear.Name = "btnClear";
