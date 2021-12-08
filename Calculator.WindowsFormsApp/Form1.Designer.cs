@@ -248,7 +248,7 @@ namespace Calculator.WindowsFormsApp
             // 
             // btnResult
             // 
-            this.btnResult.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
+            this.btnResult.BackColor = System.Drawing.Color.Silver;
             this.btnResult.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
             this.btnResult.Location = new System.Drawing.Point(335, 268);
             this.btnResult.Name = "btnResult";
