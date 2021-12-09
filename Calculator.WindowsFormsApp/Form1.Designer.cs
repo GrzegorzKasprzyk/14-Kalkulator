@@ -85,7 +85,7 @@ namespace Calculator.WindowsFormsApp
             // 
             // btn9
             // 
-            this.btn9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btn9.BackColor = System.Drawing.Color.Silver;
             this.btn9.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
             this.btn9.Location = new System.Drawing.Point(176, 134);
             this.btn9.Name = "btn9";
@@ -120,7 +120,7 @@ namespace Calculator.WindowsFormsApp
             // 
             // btn6
             // 
-            this.btn6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btn6.BackColor = System.Drawing.Color.Silver;
             this.btn6.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
             this.btn6.Location = new System.Drawing.Point(176, 204);
             this.btn6.Name = "btn6";
@@ -156,7 +156,7 @@ namespace Calculator.WindowsFormsApp
             // 
             // btn3
             // 
-            this.btn3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btn3.BackColor = System.Drawing.Color.Silver;
             this.btn3.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
             this.btn3.Location = new System.Drawing.Point(176, 268);
             this.btn3.Name = "btn3";
@@ -202,7 +202,7 @@ namespace Calculator.WindowsFormsApp
             // 
             // btn0
             // 
-            this.btn0.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btn0.BackColor = System.Drawing.Color.Silver;
             this.btn0.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
             this.btn0.Location = new System.Drawing.Point(12, 336);
             this.btn0.Name = "btn0";
@@ -214,7 +214,7 @@ namespace Calculator.WindowsFormsApp
             // 
             // btnComma
             // 
-            this.btnComma.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btnComma.BackColor = System.Drawing.Color.Silver;
             this.btnComma.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
             this.btnComma.Location = new System.Drawing.Point(176, 336);
             this.btnComma.Name = "btnComma";
