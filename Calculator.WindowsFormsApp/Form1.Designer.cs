@@ -61,7 +61,7 @@ namespace Calculator.WindowsFormsApp
             // 
             // btn7
             // 
-            this.btn7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btn7.BackColor = System.Drawing.Color.Silver;
             this.btn7.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
             this.btn7.Location = new System.Drawing.Point(12, 134);
             this.btn7.Name = "btn7";
@@ -73,7 +73,7 @@ namespace Calculator.WindowsFormsApp
             // 
             // btn8
             // 
-            this.btn8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btn8.BackColor = System.Drawing.Color.Silver;
             this.btn8.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
             this.btn8.Location = new System.Drawing.Point(95, 134);
             this.btn8.Name = "btn8";
@@ -96,7 +96,7 @@ namespace Calculator.WindowsFormsApp
             // 
             // btn4
             // 
-            this.btn4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btn4.BackColor = System.Drawing.Color.Silver;
             this.btn4.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
             this.btn4.Location = new System.Drawing.Point(12, 204);
             this.btn4.Name = "btn4";
@@ -108,7 +108,7 @@ namespace Calculator.WindowsFormsApp
             // 
             // btn5
             // 
-            this.btn5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btn5.BackColor = System.Drawing.Color.Silver;
             this.btn5.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
             this.btn5.Location = new System.Drawing.Point(95, 204);
             this.btn5.Name = "btn5";
@@ -132,7 +132,7 @@ namespace Calculator.WindowsFormsApp
             // 
             // btn1
             // 
-            this.btn1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btn1.BackColor = System.Drawing.Color.Silver;
             this.btn1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
             this.btn1.Location = new System.Drawing.Point(12, 268);
             this.btn1.Name = "btn1";
@@ -144,7 +144,7 @@ namespace Calculator.WindowsFormsApp
             // 
             // btn2
             // 
-            this.btn2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btn2.BackColor = System.Drawing.Color.Silver;
             this.btn2.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
             this.btn2.Location = new System.Drawing.Point(95, 268);
             this.btn2.Name = "btn2";
