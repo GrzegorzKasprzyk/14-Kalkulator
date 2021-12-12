@@ -214,7 +214,7 @@ namespace Calculator.WindowsFormsApp
             // 
             // btnComma
             // 
-            this.btnComma.BackColor = System.Drawing.Color.Silver;
+            this.btnComma.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.btnComma.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
             this.btnComma.Location = new System.Drawing.Point(176, 336);
             this.btnComma.Name = "btnComma";
